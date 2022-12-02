@@ -1,1 +1,1 @@
-// code your solution here
+Array.prototype.find(superbowlWin)
